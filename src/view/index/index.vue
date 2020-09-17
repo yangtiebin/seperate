@@ -1,6 +1,6 @@
 <template>
   <div>
-    我的天
+    我的天啊
   </div>
 </template>
 
